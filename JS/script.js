@@ -1,4 +1,4 @@
-const apiKey = "9efb6e446c3031a187f98d9334a93a2a"; //api key for weather app
+const apiKey = ""; //api key for weather app
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="; //url to look up cities 
 
 const searchBox = document.querySelector(".search input"); // variable for search class with input field
